@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aliking314
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript..
+- 🌱 I’m currently learning React JS..
 - 📫 How to reach me Appenpvtltd@gmail.com...
 
 <!---
