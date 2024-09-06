@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Ali..
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React JS..
+- 🌱 I’m currently Exploring Backend..
 - 📫 How to reach me Appenpvtltd@gmail.com...
 
 <!---
